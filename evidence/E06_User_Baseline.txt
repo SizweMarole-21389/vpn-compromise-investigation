@@ -1,0 +1,25 @@
+SIMULATED ENTERPRISE EVIDENCE
+
+Employee: Jordan Smith
+Username: j.smith
+Department: Product Engineering
+Role: Software Developer
+
+Normal working hours:
+08:00–18:30 local time
+
+Normal VPN behaviour:
+- Typically connects from the United Kingdom
+- Normally uses corporate-managed endpoint DEV-JS-441
+- Average VPN session duration: 2–6 hours
+- Typical VPN data transfer: 20–90 MB
+- Accesses git.internal frequently
+- Accesses files.internal occasionally
+- No recorded access to finance.internal in the previous 30 days
+
+Known corporate endpoint:
+DEV-JS-441
+
+User statement collected at 08:17 the following morning:
+
+"I was asleep at that time and I did not intentionally connect to the company VPN."

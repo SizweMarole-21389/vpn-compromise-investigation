@@ -1,0 +1,12 @@
+# SIMULATED ENTERPRISE EVIDENCE
+# Source: Remote Access VPN Authentication Gateway
+# Timezone: UTC
+
+2026-09-02T20:51:12Z event=AUTH_FAILURE user=j.smith src_ip=198.51.100.24 reason=INVALID_PASSWORD
+2026-09-02T20:52:03Z event=AUTH_FAILURE user=j.smith src_ip=198.51.100.24 reason=INVALID_PASSWORD
+2026-09-02T20:53:41Z event=AUTH_FAILURE user=j.smith src_ip=198.51.100.24 reason=INVALID_PASSWORD
+2026-09-02T20:54:08Z event=AUTH_FAILURE user=j.smith src_ip=198.51.100.24 reason=INVALID_PASSWORD
+2026-09-02T20:55:21Z event=PRIMARY_AUTH_SUCCESS user=j.smith src_ip=198.51.100.24
+2026-09-02T20:56:47Z event=MFA_VALIDATED user=j.smith method=PUSH
+2026-09-02T20:57:01Z event=VPN_SESSION_ESTABLISHED user=j.smith src_ip=198.51.100.24 vpn_ip=10.66.0.11 session_id=VPN-260902-JS01
+2026-09-02T20:59:42Z event=VPN_SESSION_ACTIVE user=j.smith vpn_ip=10.66.0.11 rx_bytes=18224432 tx_bytes=487329118

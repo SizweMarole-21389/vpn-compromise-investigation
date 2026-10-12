@@ -1,0 +1,7 @@
+timestamp,user,event,factor,device,result
+2026-09-02T20:55:23Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,SENT
+2026-09-02T20:55:41Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,NO_RESPONSE
+2026-09-02T20:55:58Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,NO_RESPONSE
+2026-09-02T20:56:14Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,NO_RESPONSE
+2026-09-02T20:56:31Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,NO_RESPONSE
+2026-09-02T20:56:44Z,j.smith,MFA_CHALLENGE,Push,Jordan-iPhone,APPROVED

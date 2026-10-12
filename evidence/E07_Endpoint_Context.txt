@@ -1,0 +1,32 @@
+SIMULATED ENTERPRISE EVIDENCE
+
+Registered endpoint:
+DEV-JS-441
+
+Operating system:
+Windows 11 Enterprise
+
+Management state:
+Managed
+
+EDR state:
+Healthy
+
+Last EDR heartbeat before incident:
+2026-09-02T19:48:11Z
+
+Next EDR heartbeat:
+2026-09-03T04:46:03Z
+
+VPN session endpoint fingerprint:
+UNKNOWN-7C91
+
+Fingerprint previously associated with j.smith:
+NO
+
+Endpoint compliance result for VPN session:
+NOT_AVAILABLE
+
+Important:
+Absence of endpoint telemetry should not automatically be interpreted as
+proof that a specific endpoint was malicious or compromised.

@@ -1,0 +1,13 @@
+# SIMULATED ENTERPRISE EVIDENCE
+# Source: Internal Network Access Monitor
+# Timezone: UTC
+
+2026-09-02T20:57:18Z src=10.66.0.11 dst=10.40.10.10 service=DNS query=git.internal action=ALLOW
+2026-09-02T20:57:24Z src=10.66.0.11 dst=10.40.10.10 service=DNS query=files.internal action=ALLOW
+2026-09-02T20:57:31Z src=10.66.0.11 dst=10.40.10.10 service=DNS query=finance.internal action=ALLOW
+2026-09-02T20:58:13Z src=10.66.0.11 dst=10.66.0.1 service=HTTP port=8080 action=ALLOW
+2026-09-02T20:58:36Z src=10.66.0.11 dst=10.66.0.1 service=HTTP port=8080 action=ALLOW
+2026-09-02T20:59:01Z src=10.66.0.11 dst=10.40.20.25 service=SMB port=445 action=ALLOW
+2026-09-02T20:59:14Z src=10.66.0.11 dst=10.40.30.18 service=HTTPS port=443 resource=git.internal action=ALLOW
+2026-09-02T20:59:27Z src=10.66.0.11 dst=10.40.40.15 service=HTTPS port=443 resource=finance.internal action=ALLOW
+2026-09-02T21:00:12Z src=10.66.0.11 dst=10.40.20.25 service=SMB event=HIGH_VOLUME_READ bytes=483729118

@@ -1,0 +1,8 @@
+# never commit VPN credentials
+*.conf
+INT027*
+*.zip
+# working/scratch
+*.html
+~$*
+.~lock*
